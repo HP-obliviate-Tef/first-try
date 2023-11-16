@@ -1,0 +1,27 @@
+html{
+    background-color:white;
+}
+
+body{
+    background-color:orange;
+    margin:0 auto;
+    padding:10px;
+    width:600px;
+    border:3,3,3,3,solid black;
+}
+
+h1{
+    text-shadow:3,3,3,black;
+    text-align:center;
+    size:300;
+    color:purple;
+}
+
+img{
+    display:block;
+    /*图片需要先转化为块级显示*/
+    margin:0 auto;
+    padding:10px;
+ }
+
+
